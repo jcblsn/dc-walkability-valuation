@@ -1,0 +1,4 @@
+.DS_Store
+data/old/
+data/processed/old/
+data/processed/intermediate_results_oddc/
